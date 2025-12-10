@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sfx-database",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "db65fc03-67bf-4d68-8e63-4bf5dc9329e3",
+			"database_name": "SFX-INSTITUTION  DATABASE"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
